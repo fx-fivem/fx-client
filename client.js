@@ -1,6 +1,6 @@
 /* 
     Use this as a client script
-    <script async src="client.js"></script>
+    <script async src="https://raw.githubusercontent.com/fx-fivem/fx-core/main/client.js"></script>
 
     Example
     let { get } = new fxCore()
